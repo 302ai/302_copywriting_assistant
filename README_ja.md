@@ -2,13 +2,13 @@
 
 <p align="center">AI コピーライティングアシスタントは、高品質なクリエイティブなコンテンツを迅速に生成し、既存のコピーライティングを最適化し、さまざまなシーンやターゲットオーディエンスに応じて個性化されたコンテンツをカスタマイズすることができます。</p>
 
-<p align="center"><a href="https://302.ai/ja/tools/writing/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/31" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![インターフェースプレビュー](docs/AI文案助手jp.png)  
 
-[302.AI](https://302.ai/ja/)の[AIコピーライティングアシスタント](https://302.ai/ja/tools/writing/)のオープンソース版です。
+[302.AI](https://302.ai/ja/)の[AIコピーライティングアシスタント](https://302.ai/product/detail/31)のオープンソース版です。
 302.AIに直接ログインしてコード不要・設定不要のオンライン版を使用するか、
 本プロジェクトを自身のニーズに合わせて修正し、302.AIのAPI KEYを使用して独自にデプロイすることができます。
 

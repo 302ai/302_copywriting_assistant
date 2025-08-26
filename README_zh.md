@@ -2,13 +2,13 @@
 
 <p align="center">AI文案助手可以快速生成高质量的创意内容、优化现有文案、并根据不同场景和目标受众定制个性化内容。</p>
 
-<p align="center"><a href="https://302.ai/tools/writing/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/31" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![界面预览](docs/AI文案助手.png)  
 
-来自[302.AI](https://302.ai)的[AI 文案助手](https://302.ai/tools/writing/)的开源版本。你可以直接登录302.AI，零代码零配置使用在线版本。或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
+来自[302.AI](https://302.ai)的[AI 文案助手](https://302.ai/product/detail/31)的开源版本。你可以直接登录302.AI，零代码零配置使用在线版本。或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
 
 ## 界面预览
 已上线多种场景类型和文案编写方式可供选择，提供自定义文案制作功能，帮助您快速生成高质量的文案。
